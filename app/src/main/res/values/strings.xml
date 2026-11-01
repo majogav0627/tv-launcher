@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inicio</string>
+    <string name="favorites">Favoritas</string>
+    <string name="apps">Apps</string>
+    <string name="favorites_empty">Mantén pulsado OK sobre una app para añadirla a favoritas</string>
+    <string name="tv_settings">Ajustes del televisor</string>
+    <string name="customize">Personalizar Inicio</string>
+    <string name="add_favorite">Añadir a favoritas</string>
+    <string name="remove_favorite">Quitar de favoritas</string>
+    <string name="move">Mover</string>
+    <string name="app_info">Información de la app</string>
+    <string name="hide">Ocultar</string>
+    <string name="move_hint">◀ ▶  para mover   ·   OK para terminar</string>
+    <string name="app_hidden">App oculta. Puedes volver a mostrarla en Personalizar Inicio.</string>
+    <string name="cannot_open">No se pudo abrir la app</string>
+    <string name="settings_title">Personalizar Inicio</string>
+    <string name="section_background">Fondo</string>
+    <string name="section_hidden">Apps ocultas</string>
+    <string name="section_general">General</string>
+    <string name="pick_image">Elegir imagen del televisor…</string>
+    <string name="pick_image_sub">Abre el selector de archivos, si tu televisor tiene uno</string>
+    <string name="adb_image">Usar imagen copiada con ADB</string>
+    <string name="use_saved_image">Usar mi imagen guardada</string>
+    <string name="use_saved_image_sub">La última imagen que elegiste como fondo</string>
+    <string name="no_hidden">No hay apps ocultas.</string>
+    <string name="unhide_sub">Pulsa OK para volver a mostrarla</string>
+    <string name="reset">Restablecer Inicio</string>
+    <string name="reset_sub">Borra favoritas, orden, apps ocultas y fondo</string>
+    <string name="reset_confirm">Pulsa OK otra vez para confirmar</string>
+    <string name="reset_done">Inicio restablecido</string>
+    <string name="background_updated">Fondo actualizado</string>
+    <string name="image_error">No se pudo leer la imagen</string>
+    <string name="no_picker">Este televisor no tiene selector de archivos. Usa la opción de ADB.</string>
+    <string name="adb_not_found">No encontré la imagen. Cópiala con ADB a:\n%1$s</string>
+    <string name="adb_help">Copia una imagen desde tu PC con:\nadb push fondo.jpg %1$s\nLuego elige «Usar imagen copiada con ADB».</string>
+    <string name="version">Versión %1$s</string>
+</resources>

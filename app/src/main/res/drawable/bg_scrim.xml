@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Oscurece arriba y abajo para que el reloj y los textos se lean sobre cualquier fondo -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="270"
+        android:centerColor="#14000000"
+        android:endColor="#73000000"
+        android:startColor="#66000000" />
+</shape>

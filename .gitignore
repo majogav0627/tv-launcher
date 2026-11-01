@@ -1,0 +1,10 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+# Nunca subir claves de firma
+*.jks
+*.keystore
+*.p12
